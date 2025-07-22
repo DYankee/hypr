@@ -1,0 +1,2 @@
+# hypr
+Hyperland Configs
